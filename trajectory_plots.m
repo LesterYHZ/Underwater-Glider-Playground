@@ -1,4 +1,4 @@
-clear; clc; close all; 
+clear; clc; close all;  
 
 %% run simulation 
 out = sim('UG_model.slx');
